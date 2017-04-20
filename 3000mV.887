@@ -1,0 +1,36 @@
+REPORT-FILE from 03/13/2017 16:52:15.093  written 03/13/2017 16:52:53
+REALTIME: 30.029      
+TOTALSUM: 10430       
+ROISUM: 10416       
+MAXVAL: 0           
+SWEEPS: 1224383     
+STARTS: 1224383     
+cmline0=03/13/2017 16:52:15.093 
+range=1024
+fstchan=0
+holdafter=0
+sweepmode=80
+swpreset=10000000    
+prena=1
+syncout=2
+ssweeps=0
+cycles=256
+sequences=1
+dac01=6660666
+dac23=7ff07ff
+bitshift=0 
+rtpreset=30.000      
+evpreset=0           
+autoinc=0 
+;datname=D:\KTP88\20170313\3000mV.887
+savedata=0 
+fmt=csv
+smoothpts=5 
+roimin=0
+roimax=1000
+caluse=1 
+caloff=0.000000
+calfact=0.250000
+calfact2=0
+calfact3=0
+calunit=nsec
